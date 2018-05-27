@@ -10,5 +10,6 @@ Built using [Create-react-app](https://github.com/facebook/create-react-app)
 ```
 $ git clone https://github.com/AlberErre/witnet-react.git
 $ cd witnet-react
+$ npm install  (download node_modules dependencies)
 $ npm start
 ```
