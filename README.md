@@ -6,8 +6,8 @@ Built using [Create-react-app](https://github.com/facebook/create-react-app)
 
 ## Development
 ```
-$ git clone 
-$ cd 
+$ git clone https://github.com/AlberErre/witnet-react.git
+$ cd witnet-react
 $ npm start
 ```
 
