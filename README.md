@@ -2,6 +2,8 @@
 
 Example Front-end  to evaluate whether the data between a smart contract and its source is the same or not.
 
+<img src="https://github.com/AlberErre/witnet-react/blob/master/witnet-front-end-example.png">
+
 Built using [Create-react-app](https://github.com/facebook/create-react-app)
 
 ## Development
