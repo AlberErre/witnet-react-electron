@@ -4,7 +4,7 @@ Example Front-end  to evaluate whether the data between a smart contract and its
 
 <img src="https://github.com/AlberErre/witnet-react-electron/blob/master/witnet-front-end-example.png">
 
-Built using [Create-react-app](https://github.com/facebook/create-react-app)
+Built using [Create-react-app](https://github.com/facebook/create-react-app) and [React-particles-js](https://github.com/Wufe/react-particles-js)
 
 ## Development
 ```
