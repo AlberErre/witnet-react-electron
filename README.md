@@ -14,3 +14,14 @@ $ npm install
 $ npm start
 ```
 Note: make sure you run ```npm install``` to get all dependencies
+
+## Electron wrapper
+
+An Electron wrapper has been created based on [electron-with-react-app](https://github.com/csepulv/electron-with-create-react-app)
+
+```
+$ git clone https://github.com/AlberErre/witnet-react.git
+$ cd witnet-react
+$ npm install
+$ npm run react-electron-start
+```
