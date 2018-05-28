@@ -1,6 +1,6 @@
 {
-  "name": "witnet-react",
-  "version": "0.1.1",
+  "name": "witnet-react-electron",
+  "version": "0.1.2",
   "private": true,
   "devDependencies": {
     "electron": "^1.7.9",
