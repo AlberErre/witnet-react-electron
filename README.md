@@ -1,4 +1,4 @@
-# Witnet - example Front-end (React)
+# Witnet - example Front-end (React) + Electron wrapper
 
 Example Front-end  to evaluate whether the data between a smart contract and its source is the same or not.
 
