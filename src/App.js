@@ -17,7 +17,7 @@ class App extends React.Component {
   state = {
     DataSource: undefined,
     SmartContract: undefined,
-    error: undefined
+    msg: undefined
   }
   getData = async (e) => {
     e.preventDefault();
